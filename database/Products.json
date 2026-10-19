@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "6202df2a98d007936cf837a6"
+  },
+  "product_name": "Get Out Poster",
+  "genre": "Horror",
+  "collection": "Limited",
+  "price": 15,
+  "image": "images/get_out.jpg"
+},{
+  "_id": {
+    "$oid": "6202dfa798d007936cf837a7"
+  },
+  "product_name": "Nomadland Poster",
+  "genre": "Drama",
+  "collection": "Standard",
+  "price": 10,
+  "image": "images/nomadland.jpg"
+},{
+  "_id": {
+    "$oid": "6202e00698d007936cf837a8"
+  },
+  "product_name": "PSYCHO Poster",
+  "genre": "Horror",
+  "collection": "Limited",
+  "price": 15,
+  "image": "images/psycho.jpg"
+},{
+  "_id": {
+    "$oid": "6202e02b98d007936cf837a9"
+  },
+  "product_name": "Hereditary Poster",
+  "genre": "Horror",
+  "collection": "Limited",
+  "price": 15,
+  "image": "images/hereditary.jpg"
+},{
+  "_id": {
+    "$oid": "6202e0d53923fedc13090357"
+  },
+  "product_name": "The Exorcist Poster",
+  "genre": "Horror",
+  "collection": "Limited",
+  "price": 15,
+  "image": "images/the_exorcist.jpg"
+},{
+  "_id": {
+    "$oid": "6202e12d3923fedc13090358"
+  },
+  "product_name": "The Lighthouse Poster",
+  "genre": "Drama",
+  "collection": "Standard",
+  "price": 10,
+  "image": "images/the_lighthouse.jpg"
+},{
+  "_id": {
+    "$oid": "6202e17e3923fedc13090359"
+  },
+  "product_name": "The Shining Poster",
+  "genre": "Horror",
+  "collection": "Limited",
+  "price": 15,
+  "image": "images/the_shining.jpg"
+},{
+  "_id": {
+    "$oid": "6202e22a3923fedc1309035a"
+  },
+  "product_name": "The Truman Show Poster",
+  "genre": "Comedy-Drama",
+  "collection": "Standart",
+  "price": 10,
+  "image": "images/truman_show.jpg"
+},{
+  "_id": {
+    "$oid": "6202e29d3923fedc1309035b"
+  },
+  "product_name": "Portrait of a Lady on Fire Poster",
+  "genre": "Drama",
+  "collection": "Standard",
+  "price": 10,
+  "image": "images/portrait.jpg"
+},{
+  "_id": {
+    "$oid": "6202e2ca3923fedc1309035c"
+  },
+  "product_name": "Rosemary's Baby Poster",
+  "genre": "Horror",
+  "collection": "Limited",
+  "price": 15,
+  "image": "images/rosemarys_baby.jpg"
+},{
+  "_id": {
+    "$oid": "6202e2ff3923fedc1309035d"
+  },
+  "product_name": "Inception Poster",
+  "genre": "Drama",
+  "collection": "Standard",
+  "price": 10,
+  "image": "images/inception.jpg"
+},{
+  "_id": {
+    "$oid": "6202e3f13923fedc1309035e"
+  },
+  "product_name": "The Grand Budapest Hotel Poster",
+  "genre": "Comedy-Drama",
+  "collection": "Standard",
+  "price": 10,
+  "image": "images/hotel.jpg"
+}]

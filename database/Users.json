@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "620d3dfd543a00001c006375"
+  },
+  "Name": "user1",
+  "Email": "user1@mail.com",
+  "Password": "1111",
+  "Cart": [
+    {
+      "product_name": "Nomadland Poster"
+    }
+  ],
+  "Orders": [
+    [
+      {
+        "products": [
+          {
+            "product_name": "Nomadland Poster"
+          }
+        ]
+      },
+      {
+        "total": "14"
+      },
+      {
+        "status": "Pending"
+      },
+      {
+        "order_number": 9814
+      }
+    ]
+  ],
+  "Favourites": [
+    {
+      "product_name": "Get Out Poster"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "620d5796543a00001c006377"
+  },
+  "Name": "user3",
+  "Email": "user3@mail.com",
+  "Password": "3333",
+  "Cart": [],
+  "Orders": [],
+  "Favourites": []
+},{
+  "_id": {
+    "$oid": "620d57a0543a00001c006378"
+  },
+  "Name": "user4",
+  "Email": "user4@mail.com",
+  "Password": "4444",
+  "Cart": [],
+  "Orders": [],
+  "Favourites": []
+},{
+  "_id": {
+    "$oid": "620d57b5543a00001c006379"
+  },
+  "Name": "admin",
+  "Email": "admin1@mail.com",
+  "Password": "0000"
+},{
+  "_id": {
+    "$oid": "620d57c2543a00001c00637a"
+  },
+  "Name": "admin",
+  "Email": "admin2@mail.com",
+  "Password": "00"
+}]
