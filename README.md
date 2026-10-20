@@ -211,7 +211,7 @@ database/
 
 ## Documentation
 
-Full technical and business documentation can be found [[here](docs/technical_and_business_report.pdf)]
+Full technical and business documentation can be found [here](docs/technical_and_business_report.pdf)
 
 
 The report contains:
