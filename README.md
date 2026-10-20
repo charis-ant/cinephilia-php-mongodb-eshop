@@ -132,11 +132,6 @@ The project incorporates several modern e-commerce practices:
 
 - MongoDB
 
-### Development Tools
-
-- XAMPP
-- MongoDB Server
-
 
 ## Database Structure
 
@@ -212,29 +207,12 @@ database/
 - PHP
 - MongoDB
 - XAMPP (Apache)
-- Modern web browser
 
-### Setup
-
-1. Start MongoDB.
-2. Start Apache through XAMPP.
-3. Import the JSON files into MongoDB.
-4. Copy the contents of `WebContent` into the web server directory.
-5. Open:
-
-```text
-http://localhost/
-```
-
-6. Navigate through the application.
 
 ## Documentation
 
-Full technical and business documentation is included in:
+Full technical and business documentation can be found [[here](docs/technical_and_business_report.pdf)]
 
-```text
-docs/technical_and_business_report.pdf
-```
 
 The report contains:
 
