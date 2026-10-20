@@ -8,11 +8,10 @@ This project was developed as part of the **E-Business** course and combines bus
 
 This repository contains the **PHP and MongoDB implementation** of the Cinephilia e-commerce concept.
 
-A second implementation of the same business idea, developed using Java, JSP, RESTful Web Services, and MySQL, can be found here: [[link] https://github.com/charis-ant/cinephilia-java-rest-eshop]
+A second implementation of the same business idea, developed using Java, JSP, RESTful Web Services, and MySQL, can be found here: [[link](https://github.com/charis-ant/cinephilia-java-rest-eshop)]
 
 *The purpose of maintaining the two implementations separately is to demonstrate the same business concept using different technologies and architectural approaches.*
 
----
 
 ## Overview
 
